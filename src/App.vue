@@ -15,7 +15,7 @@ export default {
   },
   data: function() {
     return {
-      github: "https://github.com/yangdinghui/tomato-goIndex",
+      github: "https://github.com/yangdinghui/tomato-goindex",
     };
   },
   watch: {
