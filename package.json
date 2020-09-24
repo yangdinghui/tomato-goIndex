@@ -1,7 +1,7 @@
 {
   "name": "tomato-goindex",
-  "version": "1.0.0",
-  "g2index": "1.1.2",
+  "version": "1.0.1",
+  "g2index": "1.0.1",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

@@ -1,7 +1,7 @@
 // =======Options START=======
 var authConfig = {
   siteName: "Tomato Cloud", // 网站名称
-  version: "1.1.2", // 程序版本
+  version: "1.0.1", // 程序版本
   theme: "acrou",
   // 强烈推荐使用自己的 client_id 和 client_secret
   client_id: "202264815644.apps.googleusercontent.com",
@@ -67,7 +67,7 @@ var authConfig = {
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/Aicirou/goindex-theme-acrou",
   // 主题版本号
-  version: "2.0.8",
+  version: "1.0.1",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {

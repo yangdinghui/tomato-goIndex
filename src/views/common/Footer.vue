@@ -7,7 +7,7 @@
             <a
               class="tag is-dark"
               href="https://github.com/yangdinghui/tomato-goindex"
-            >tomato-goIndex</a>
+            >tomato-goindex</a>
             <span class="tag is-light">
               MIT &nbsp;
               <span class="icon">
