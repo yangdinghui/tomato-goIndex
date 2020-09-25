@@ -1,14 +1,14 @@
 var authConfig = {
-  version: "1.1.1",
+  version: "1.0.1",
   roots: [
     {
       id: "",
-      name: "TeamDrive",
+      name: "ShareDrive",
       pass: "",
     },
     {
       id: "root",
-      name: "PriveDrive",
+      name: "PrivateDrive",
       pass: "",
     },
     {
